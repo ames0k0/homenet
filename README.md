@@ -33,4 +33,16 @@ $summary = (in+out)
   monthly summary
     -------+---------+---------
     User_N | -139 r. | datetime
+
+
+### _View_page_body
+
+    { block navbar }
+         navbar
+
+    { block container }
+    =============================================
+    { block table-left } || { block table-right }
+          Table summary  ||       Table expenses
+          Table users    ||
 ```
