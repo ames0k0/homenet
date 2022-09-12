@@ -9,7 +9,7 @@
   - [ ] /reset
   - [ ] /confirm
 - [ ] /finance
-  - [ ] /<user_id>
+  - [ ] /user/<user_id>
 - [ ] /crud - main crud page for all users to vote ?!
   - [ ] /user/<user_id>
 - [ ] /user/<user_id>
